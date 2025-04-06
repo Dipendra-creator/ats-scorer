@@ -1,0 +1,231 @@
+{
+  "Programming Languages": {
+    "keywords": [
+      "Python", "Java", "C", "C++", "C#", "JavaScript", "TypeScript", "Ruby", "Swift", "Kotlin",
+      "Go", "Rust", "PHP", "Perl", "Haskell", "Scala", "R", "MATLAB", "Lua", "Dart", "Elixir",
+      "Erlang", "Objective-C", "Visual Basic", "F#", "Clojure", "Groovy", "Assembly", "Fortran",
+      "COBOL"
+    ]
+  },
+  "Web Development": {
+    "Frontend": {
+      "keywords": [
+        "HTML", "CSS", "JavaScript", "TypeScript", "React", "Angular", "Vue.js", "Svelte",
+        "Bootstrap", "Tailwind CSS", "Material UI", "Redux", "Next.js", "Gatsby", "jQuery",
+        "LESS", "SCSS", "WebAssembly"
+      ]
+    },
+    "Backend": {
+      "keywords": [
+        "Node.js", "Express", "Django", "Flask", "Ruby on Rails", "Laravel", "ASP.NET", "Spring Boot",
+        "Phoenix", "Koa", "Symfony", "Hapi", "Meteor", "FastAPI", "GraphQL", "RESTful API", "Socket.io"
+      ]
+    },
+    "Full Stack & Misc": {
+      "keywords": [
+        "MEAN", "MERN", "LAMP", "JAMstack", "Serverless", "Progressive Web App", "Web Components"
+      ]
+    }
+  },
+  "Data Science & Analytics": {
+    "Programming & Scripting": {
+      "keywords": [
+        "Python", "R", "Julia", "SQL", "SAS", "SPSS"
+      ]
+    },
+    "Libraries & Frameworks": {
+      "keywords": [
+        "Pandas", "NumPy", "SciPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Plotly", "TensorFlow",
+        "PyTorch", "Keras", "NLTK", "SpaCy", "Statsmodels", "XGBoost", "LightGBM", "CatBoost"
+      ]
+    },
+    "Tools & Platforms": {
+      "keywords": [
+        "Jupyter", "RStudio", "Tableau", "Power BI", "Excel", "Google Data Studio", "RapidMiner", "Apache Superset"
+      ]
+    },
+    "Big Data": {
+      "keywords": [
+        "Hadoop", "Spark", "Kafka", "Hive", "Pig", "Flink", "Cassandra", "MongoDB", "Elasticsearch",
+        "Presto", "Impala"
+      ]
+    }
+  },
+  "Machine Learning & AI": {
+    "Frameworks": {
+      "keywords": [
+        "TensorFlow", "PyTorch", "Keras", "Scikit-Learn", "MXNet", "Caffe", "Theano", "CNTK", "Chainer"
+      ]
+    },
+    "Techniques & Algorithms": {
+      "keywords": [
+        "Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning",
+        "Neural Networks", "Convolutional Neural Networks", "Recurrent Neural Networks", "Decision Trees",
+        "Random Forest", "Gradient Boosting", "Support Vector Machines", "Clustering", "Dimensionality Reduction",
+        "Ensemble Learning"
+      ]
+    },
+    "Applications & Use Cases": {
+      "keywords": [
+        "Computer Vision", "Natural Language Processing", "Speech Recognition", "Recommendation Systems",
+        "Time Series Analysis", "Anomaly Detection", "Predictive Analytics", "Robotics", "Autonomous Vehicles"
+      ]
+    }
+  },
+  "Database Technologies": {
+    "Relational Databases": {
+      "keywords": [
+        "MySQL", "PostgreSQL", "Oracle", "SQL Server", "SQLite", "MariaDB", "DB2"
+      ]
+    },
+    "NoSQL Databases": {
+      "keywords": [
+        "MongoDB", "Redis", "Cassandra", "CouchDB", "Neo4j", "DynamoDB", "HBase", "Couchbase", "Firebase"
+      ]
+    },
+    "Data Warehousing": {
+      "keywords": [
+        "Snowflake", "BigQuery", "Amazon Redshift", "Teradata", "SAP HANA", "Vertica", "Exadata"
+      ]
+    },
+    "ORM & Data Access": {
+      "keywords": [
+        "SQLAlchemy", "Hibernate", "Entity Framework", "ActiveRecord", "Doctrine", "Dapper"
+      ]
+    }
+  },
+  "Cloud Computing & DevOps": {
+    "Cloud Providers": {
+      "keywords": [
+        "AWS", "Azure", "Google Cloud", "IBM Cloud", "Oracle Cloud", "DigitalOcean", "Heroku", "Alibaba Cloud"
+      ]
+    },
+    "Containers & Orchestration": {
+      "keywords": [
+        "Docker", "Kubernetes", "OpenShift", "Containerization", "LXC", "rkt"
+      ]
+    },
+    "Infrastructure & Automation": {
+      "keywords": [
+        "Terraform", "Ansible", "Chef", "Puppet", "CloudFormation", "Jenkins", "GitLab CI/CD", "Travis CI",
+        "CircleCI", "Bamboo", "SaltStack"
+      ]
+    },
+    "Serverless & Functions": {
+      "keywords": [
+        "AWS Lambda", "Azure Functions", "Google Cloud Functions", "FaaS", "Serverless Framework", "OpenFaaS"
+      ]
+    }
+  },
+  "Software Engineering & Methodologies": {
+    "Development Processes": {
+      "keywords": [
+        "Agile", "Scrum", "Kanban", "Waterfall", "XP", "Test Driven Development", "Behavior Driven Development",
+        "Continuous Integration", "Continuous Delivery", "CI/CD"
+      ]
+    },
+    "Tools & Collaboration": {
+      "keywords": [
+        "Git", "SVN", "JIRA", "Confluence", "Trello", "Asana", "Slack", "Microsoft Teams", "Visual Studio Code",
+        "Eclipse", "IntelliJ IDEA", "Atom", "Sublime Text"
+      ]
+    },
+    "Design & Architecture": {
+      "keywords": [
+        "UML", "Design Patterns", "SOLID", "DRY", "KISS", "YAGNI", "Microservices", "Monolithic",
+        "Service-Oriented Architecture", "REST", "GraphQL", "gRPC", "Event-Driven Architecture"
+      ]
+    }
+  },
+  "Cybersecurity": {
+    "Fundamentals": {
+      "keywords": [
+        "Cybersecurity", "Information Security", "Encryption", "Authentication", "Authorization", "Firewall",
+        "Antivirus", "Malware"
+      ]
+    },
+    "Testing & Assessment": {
+      "keywords": [
+        "Penetration Testing", "Vulnerability Assessment", "Security Audits", "Risk Management",
+        "Incident Response", "SOC", "Zero Trust", "Multi-factor Authentication"
+      ]
+    },
+    "Tools & Technologies": {
+      "keywords": [
+        "Wireshark", "Metasploit", "Nmap", "Burp Suite", "Kali Linux", "Snort", "OSSEC", "Splunk",
+        "OpenVAS", "John the Ripper"
+      ]
+    },
+    "Standards & Compliance": {
+      "keywords": [
+        "ISO 27001", "NIST", "GDPR", "HIPAA", "PCI-DSS", "CIS Controls", "SOC 2", "FISMA"
+      ]
+    }
+  },
+  "Mobile Development": {
+    "Platforms": {
+      "keywords": [
+        "Android", "iOS", "Windows Mobile", "BlackBerry", "Tizen", "HarmonyOS"
+      ]
+    },
+    "Frameworks": {
+      "keywords": [
+        "React Native", "Flutter", "Xamarin", "Ionic", "Cordova", "SwiftUI", "Jetpack Compose",
+        "NativeScript"
+      ]
+    },
+    "Languages": {
+      "keywords": [
+        "Java", "Kotlin", "Swift", "Objective-C", "Dart", "C#", "JavaScript"
+      ]
+    }
+  },
+  "Operating Systems & Networking": {
+    "Operating Systems": {
+      "keywords": [
+        "Linux", "Windows", "macOS", "Unix", "BSD", "Solaris", "Android OS", "iOS", "Fedora", "Red Hat", "Debian", "Ubuntu"
+      ]
+    },
+    "Networking Fundamentals": {
+      "keywords": [
+        "TCP/IP", "UDP", "DNS", "DHCP", "HTTP", "HTTPS", "FTP", "SSH", "VPN", "LAN", "WAN",
+        "SDN", "VLAN", "Subnetting", "NAT", "Proxy"
+      ]
+    },
+    "Protocols & Tools": {
+      "keywords": [
+        "IPv4", "IPv6", "BGP", "OSPF", "RIP", "MPLS", "SNMP", "Wireshark", "NetFlow"
+      ]
+    }
+  },
+  "Emerging Technologies": {
+    "Blockchain & Cryptocurrency": {
+      "keywords": [
+        "Blockchain", "Bitcoin", "Ethereum", "Smart Contracts", "Hyperledger", "DeFi", "NFT", "Solidity", "DApp"
+      ]
+    },
+    "Internet of Things (IoT)": {
+      "keywords": [
+        "IoT", "Internet of Things", "MQTT", "Zigbee", "LoRaWAN", "Smart Home", "Edge Computing",
+        "Wearables", "Sensor Networks"
+      ]
+    },
+    "Quantum Computing": {
+      "keywords": [
+        "Quantum Computing", "Qubit", "Superposition", "Quantum Algorithm", "Quantum Supremacy",
+        "D-Wave", "IBM Q", "Quantum Entanglement", "Quantum Simulator"
+      ]
+    },
+    "VR, AR & XR": {
+      "keywords": [
+        "Virtual Reality", "Augmented Reality", "Mixed Reality", "Extended Reality", "Unity", "Unreal Engine",
+        "Oculus", "HoloLens", "Vuforia", "ARKit", "ARCore"
+      ]
+    },
+    "5G & Edge": {
+      "keywords": [
+        "5G", "Edge Computing", "Fog Computing", "IoT Edge", "Latency", "Network Slicing", "C-RAN"
+      ]
+    }
+  }
+}
